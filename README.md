@@ -1,12 +1,11 @@
-### Hi there 👋
+# Hi, I'm Engjell Metaj 👋
 
-<!--
-**emetaj/emetaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer at 42 Vienna with a passion for coding.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the 42 Common Core.
+- 🌱 I’m currently learning C/C++ and a little bit Python.
+- 💬 Ask me about how to fail a project.
+- 📫 How to reach me: (https://www.linkedin.com/in/engjell-metaj-543156248/).
+- ⚡ Fun fact: anything I associate with fun may be offensive to someone.
 
-- 🔭 I’m currently working on becoming a developer!
-- 🌱 I’m currently learning C, C++, Scripting
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about how to clone git
-- ⚡ Fun fact: I respect women
+![emetaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=emetaj&show_icons=true&theme=radical)
